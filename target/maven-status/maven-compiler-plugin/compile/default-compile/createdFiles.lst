@@ -1,7 +1,7 @@
-articleweb/dao/NewsRepository.class
-articleweb/service/NewsService.class
-articleweb/Application.class
-articleweb/controller/SampleRestController.class
-articleweb/controller/MainController.class
-articleweb/UploadFile.class
-articleweb/models/News.class
+articleweb\UploadFile.class
+articleweb\models\News.class
+articleweb\controller\SampleRestController.class
+articleweb\dao\NewsRepository.class
+articleweb\controller\MainController.class
+articleweb\Application.class
+articleweb\service\NewsService.class

@@ -30,8 +30,8 @@
 			</exclusions>
 		</dependency>
 		<dependency>
-   			 <groupId>org.springframework.boot</groupId>
-  			 <artifactId>spring-boot-starter-jetty</artifactId>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-jetty</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
@@ -89,10 +89,10 @@
 				<version>1.2.1</version>
 			</plugin>
 			<plugin>
-                                <groupId>org.eclipse.jetty</groupId>
-                                <artifactId>jetty-maven-plugin</artifactId>
-                                <version>9.3.7.v20160115</version>
-                        </plugin>
+				<groupId>org.eclipse.jetty</groupId>
+				<artifactId>jetty-maven-plugin</artifactId>
+				<version>9.3.7.v20160115</version>
+			</plugin>
 		</plugins>
 		<finalName>articleweb</finalName>
 	</build>
